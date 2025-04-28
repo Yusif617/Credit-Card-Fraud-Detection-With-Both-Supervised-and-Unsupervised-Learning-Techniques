@@ -89,9 +89,9 @@ The analysis follows these main steps:
 
    * Evaluate the performance using a classification report, confusion matrix, and ROC curves.
   
- ## ** How to Run **
+ ## **How to Run**
 
-1. Download the `creditcard.csv` dataset and the Jupyter Notebook (`CreditCardFraud.ipynb`).
+1. Download the `creditcard.csv` dataset from kaggle (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and the Jupyter Notebook (`CreditCardFraud.ipynb`).
 
 2. Ensure both files are in the same directory, or update the file path in the notebook's data loading cell (`pd.read_csv("/content/creditcard.csv")`) to the correct location of `creditcard.csv`.
 

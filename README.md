@@ -1,6 +1,6 @@
 # **Credit Card Fraud Detection**
 
-This repository contains a Jupyter Notebook (`CreditCardFraud (1).ipynb`) that implements machine learning models to detect fraudulent credit card transactions. The project addresses the critical business problem of minimizing financial losses and maintaining customer trust by identifying and flagging suspicious transactions.
+This repository contains a Jupyter Notebook (`CreditCardFraud.ipynb`) that implements machine learning models to detect fraudulent credit card transactions. The project addresses the critical business problem of minimizing financial losses and maintaining customer trust by identifying and flagging suspicious transactions.
 
 ## **Table of Contents**
 
